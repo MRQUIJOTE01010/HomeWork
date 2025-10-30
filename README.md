@@ -1,2 +1,2 @@
 # HomeWork
-It's a homework using tinker 
+It's a homework using tkinter 
